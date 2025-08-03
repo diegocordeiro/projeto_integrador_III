@@ -1,9 +1,10 @@
 # RELATÓRIO DE ATIVIDADES TÉCNICAS – 1º ANO
 
-**Aluno(a):** ______________________________________  
-**Turma:** _______________________  
-**Data da Atividade:** ____/____/____  
-**Responsável pela Mentoria (3º ano):** ___________________________
+Aluno(a): ______________________________________  
+Turma: _______________________  
+Data da Atividade: __________________
+
+Responsável pela Mentoria (3º ano): ___________________________
 
 ## 1. Descrição da Atividade Realizada
 Descreva de forma clara e objetiva as ações realizadas:
@@ -32,5 +33,5 @@ Descreva de forma clara e objetiva as ações realizadas:
 
 ---
 
-**Assinatura do Aluno:** _____________________  
-**Assinatura do Mentor (3º ano):** _____________________
+Assinatura do Aluno: _____________________  
+Assinatura do Mentor (3º ano): _____________________
