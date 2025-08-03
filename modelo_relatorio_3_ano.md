@@ -11,12 +11,12 @@ Grupo/Subprojeto: ___________________________
 ## 1. Tarefas Executadas na Semana
 Liste as ações realizadas:
 
-- [ ] Reunião com mentorandos (1º ano)
-- [ ] Definição de requisitos da aplicação
-- [ ] Codificação de módulo específico
-- [ ] Testes / Correções
-- [ ] Documentação / GitHub
-- [ ] Outros: ___________________________
+- ( ) Reunião com mentorandos (1º ano)
+- ( ) Definição de requisitos da aplicação
+- ( ) Codificação de módulo específico
+- ( ) Testes / Correções
+- ( ) Documentação / GitHub
+- ( ) Outros: ___________________________
 
 > Detalhe abaixo o que foi feito:
 
