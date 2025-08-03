@@ -6,6 +6,8 @@ Data da Atividade: __________________
 
 Responsável pela Mentoria (3º ano): ___________________________
 
+---
+
 ## 1. Descrição da Atividade Realizada
 Descreva de forma clara e objetiva as ações realizadas:
 

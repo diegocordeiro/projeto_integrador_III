@@ -6,6 +6,8 @@ Data da Atividade: ________________
 
 Grupo/Subprojeto: ___________________________
 
+---
+
 ## 1. Tarefas Executadas na Semana
 Liste as ações realizadas:
 
@@ -17,22 +19,27 @@ Liste as ações realizadas:
 - [ ] Outros: ___________________________
 
 > Detalhe abaixo o que foi feito:
+
 ---
 
 ## 2. Tarefas Delegadas a Mentorandos (1º ano)
 > O que foi orientado ou supervisionado
+
 ---
 
 ## 3. Progresso no Desenvolvimento da Aplicação
 > Descreva o avanço técnico: protótipos, funcionalidades concluídas, testes, etc.
+
 ---
 
 ## 4. Dificuldades Técnicas ou de Gestão
 > Descreva as dificuldades enfrentadas.
+
 ---
 
 ## 5. Próximas Etapas
 > Descreva próximas etapas do planejamento.
+
 ---
 
 Assinatura do Aluno: _____________________  
