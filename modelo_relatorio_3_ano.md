@@ -28,7 +28,7 @@ Liste as ações realizadas:
 ---
 
 ## 4. Dificuldades Técnicas ou de Gestão
-> Descreva os dificuldades enfrentadas.
+> Descreva as dificuldades enfrentadas.
 ---
 
 ## 5. Próximas Etapas
